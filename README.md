@@ -26,4 +26,6 @@ Ready-to-run Windows and Linux releases are available on GitHub.
 - Game development
 - Open-source software
 
+☕ [Support my projects on Buy Me a Coffee](https://buymeacoffee.com/farfarspelar)
+
 > Simple should remain simple. Don't overcomplicate things.

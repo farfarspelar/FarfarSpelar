@@ -4,6 +4,8 @@ Production technician by day, hobby developer by night.
 
 I build practical CNC tools, games and experimental open-source software.
 
+CNC • Python • Linux • Manufacturing • Game Development • Open Source
+
 ## Current public project
 
 ### [SubGlyph 2026](https://github.com/farfarspelar/SubGlyph-2026)
